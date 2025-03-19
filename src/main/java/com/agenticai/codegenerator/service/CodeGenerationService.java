@@ -16,7 +16,7 @@ import okhttp3.ResponseBody;
 @Service
 public class CodeGenerationService {
 
-    private static final String API_KEY = "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";  // Replace with your actual key
+    private static final String API_KEY = "YOUR_API-KEY";  // Replace with your actual key
     private static final String OPENAI_API_URL = "https://api.openai.com/v1/completions";
 
     public String generateCode(String description, String language) {
