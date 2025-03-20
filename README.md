@@ -4,7 +4,7 @@
 
 -------
 
-# AI Code Generation Automation  <img src="https://github.com/Mirellawanessa/AI-Code-Gen/blob/main/resources/images/avatar.png" alt="Avatar" width="400" align="right">
+# AI Code Generation Automation  <img src="https://github.com/Mirellawanessa/AI-Code-Gen/blob/main/resources/images/avatar.png" alt="Avatar" width="200" align="right">
 
 **AI Code Generation Automation** is an innovative system developed to automate code generation based on natural language descriptions. The system uses cutting-edge Artificial Intelligence (AI), specifically OpenAI's GPT-3, to generate code snippets in multiple programming languages, including Java, Python, JavaScript, and C++. This project aims to help developers create code faster and reduce manual effort
 
